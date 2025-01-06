@@ -2,7 +2,7 @@
   "name": "gam3r.store",
   "private": true,
   "scripts": {
-    "build": "turbo build --output apps",
+    "build": "turbo build",
     "dev": "turbo dev",
     "lint": "turbo lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
